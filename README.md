@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @GiselleUlloa
+- 👋 Hola , Me llamo Giselle Ulloa 
 - 👀 I’m interested in ...Python,web develoment, Data Sciencie,artificial intelligence
 - 🌱 I’m currently learning ...software engineering
 - 💞️ I’m looking to collaborate on ...mainly to acquire knowledge in various programming languages.
