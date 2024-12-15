@@ -1,10 +1,31 @@
-- 👋 Hola , Me llamo Giselle Ulloa 
-- 👀 I’m interested in ...Python,web develoment, Data Sciencie,artificial intelligence
-- 🌱 I’m currently learning ...software engineering
-- 💞️ I’m looking to collaborate on ...mainly to acquire knowledge in various programming languages.
-- 📫 How to reach me ...giselle.ulloa123456@gmail.com
+# 👋 Hola, soy Giselle Ulloa
 
-<!---
-GiselleUlloa/GiselleUlloa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Soy estudiante de **Ingeniería de Software** con pasión por **Python**, **Desarrollo Web**, **Ciencia de Datos** e **Inteligencia Artificial**.
+
+## 🚀 Sobre mí:
+- **Intereses**: Programación, IA, Data Science, Desarrollo Web.
+- **Aprendizaje**: Enfocada en fortalecer mis habilidades en desarrollo de software.
+- **Objetivo**: Colaborar para aprender más sobre nuevas tecnologías y mejorar mis habilidades en programación.
+
+## 🌍 Proyectos Destacados:
+### **Gestión de Tareas**: 
+Aplicación para organizar tareas diarias con **Backend en Flask** y **Frontend en HTML, CSS y JavaScript**.
+
+### **Recomendador de Cursos con ChatGPT**:
+Este proyecto utiliza **OpenAI ChatGPT** para recomendar cursos personalizados según los intereses del usuario. El sistema interactúa con el usuario para entender sus preferencias y sugerir cursos adecuados en diversas plataformas educativas.
+
+#### Tecnologías utilizadas:
+- **Python**: Lenguaje principal.
+- **OpenAI API**: Para integrar el modelo de lenguaje ChatGPT.
+- **Flask**: Framework para crear la API del proyecto.
+- **HTML, CSS y JavaScript**: Para la interfaz web.
+
+## 📬 Contacto:
+- Correo: [giselle.ulloa123456@gmail.com](mailto:giselle.ulloa123456@gmail.com)
+
+---
+
+¡Gracias por visitar mi perfil! 🌟
+```
+
+Si prefieres que se mantenga más simple o si tienes algo más en mente, ¡avísame!
