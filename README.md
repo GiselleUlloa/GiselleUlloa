@@ -26,5 +26,5 @@ Este proyecto utiliza **OpenAI ChatGPT** para recomendar cursos personalizados s
 ---
 
 ¡Gracias por visitar mi perfil! 🌟
-```
+
 
