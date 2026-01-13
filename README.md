@@ -1,6 +1,6 @@
 # 👋 Hola, soy Giselle Ulloa
 
-Soy estudiante de **Ingeniería de Software** con pasión por **Python**, **Desarrollo Web**, **Ciencia de Datos** e **Inteligencia Artificial**.
+Soy **Ingeniería de Software** con pasión por **Python**, **Desarrollo Web**, **Ciencia de Datos** e **Inteligencia Artificial**.
 
 ## 🚀 Sobre mí:
 - **Intereses**: Programación, IA, Data Science, Desarrollo Web.
@@ -21,7 +21,7 @@ Este proyecto utiliza **OpenAI ChatGPT** para recomendar cursos personalizados s
 - **HTML, CSS y JavaScript**: Para la interfaz web.
 
 ## 📬 Contacto:
-- Correo: [giselle.ulloa123456@gmail.com](mailto:giselle.ulloa123456@gmail.com)
+- Correo: [giseulloa0@gmail.com](mailto:giseulloa0@gmail.com)
 
 ---
 
