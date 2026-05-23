@@ -18,16 +18,10 @@ Lidero el **Hackathon de Programación** más ambicioso de la región, una inici
 ---
 ## 🛠️ Proyectos Destacados
 
-### **Community Meeting Organizer** 📅 `En desarrollo`
-Herramienta diseñada para optimizar la gestión de comunidades tecnológicas.
-- **Funcionalidad**: Automatización de minutas de reuniones y seguimiento de tareas para equipos de liderazgo.
-- **Stack**: Python, Flask, Google Cloud.
-
 ### **Gestión de Tareas**  `En desarrollo`
 Aplicación para organizar tareas diarias con un flujo de trabajo eficiente y minimalista.
 - **Stack**: Backend en Flask y Frontend en HTML, CSS y JavaScript.
 ---
-
 ## 📬 Hablemos
 Puedes encontrarme en **[LinkedIn](https://www.linkedin.com/in/giselleulloa/)**, unirte a la comunidad en **[GDG Cartagena](https://gdg.community.dev/gdg-cartagena/)** o escribirme directamente a **giseulloa0@gmail.com**.
 
