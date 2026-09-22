@@ -4,7 +4,7 @@
 
 # Giselle Ulloa
 
-### Software Engineer · AI & Cloud · DevRel · CEO
+### Software Engineer · AI & Cloud · DevRel 
 
 **Building technology, communities and digital experiences.**
 
