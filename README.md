@@ -4,7 +4,7 @@
 
 # Giselle Ulloa
 
-### Software Engineer · AI & Cloud · DevRel 
+### Software Engineer · AI & Cloud · DevRel · CEO
 
 **Building technology, communities and digital experiences.**
 
@@ -26,6 +26,10 @@
 &nbsp;
 <a href="https://gdg.community.dev/gdg-cartagena/">
 <img src="https://img.shields.io/badge/GDG%20Cartagena-4285F4?style=for-the-badge&logo=google&logoColor=white"/>
+</a>
+&nbsp;
+<a href="mailto:giseulloa0@gmail.com">
+<img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 </div>
@@ -100,14 +104,14 @@ I’m especially interested in roles where **technical knowledge, communication 
 
 <br>
 
-<a href="https://www.linkedin.com/in/giselleulloa/">
-<img src="https://img.shields.io/badge/LET'S%20CONNECT%20ON%20LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<a href="mailto:giseulloa0@gmail.com">
+<img src="https://img.shields.io/badge/EMAIL-CONTACT%20ME-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 <br><br>
 
-<a href="https://www.instagram.com/giulloa/">
-<img src="https://img.shields.io/badge/FOLLOW%20ME%20ON%20INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+<a href="https://www.linkedin.com/in/giselleulloa/">
+<img src="https://img.shields.io/badge/LINKEDIN-LET'S%20CONNECT-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <br><br>
